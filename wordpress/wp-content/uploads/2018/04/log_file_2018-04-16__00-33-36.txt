@@ -1,0 +1,78 @@
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/uploads/2018/04/magbook.wordpress-1.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wp-content/uploads/2018/04/magbook-widgets.wie
+Customizer file = /Applications/MAMP/htdocs/wordpress/wp-content/uploads/2018/04/magbook-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+TF: Category Box Two Layout Widget - Fashion - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Top Header Info : 
+
+Custom HTML - No Title - Imported
+
+Header Banner : 
+
+Image - No Title - Imported
+
+Side Menu : 
+
+TF: Category Box Widget - No Title - Imported
+
+Magbook Template Section : 
+
+TF: Category Box Widget - Business - Imported
+Image - No Title - Imported
+TF: Category Box Two Layout Widget - Fashion - Imported
+TF: Category Box Widget - Science &amp; Tech - Imported
+TF: Category Box Widget - Sports - Imported
+
+Magbook Template Sidebar Section : 
+
+TF: Popular Posts, Tags and Comments - No Title - Imported
+Image - Advertisement - Imported
+TF: Category Box Two Layout Widget - Health - Imported
+
+Contact Page Sidebar : 
+
+Text - Contact Information - Imported
+
+Iframe Code For Google Maps : 
+
+Text - No Title - Imported
+
+Footer Column 1 : 
+
+Image - About Us - Imported
+Text - No Title - Imported
+
+Footer Column 2 : 
+
+recent-posts-widget-with-thumbnails - Recent News - Site does not support widget
+
+Footer Column 3 : 
+
+Gallery - Gallery - Imported
+
+Footer Column 4 : 
+
+Custom HTML - Our Address - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
